@@ -1,0 +1,3 @@
+config:
+  profile: local
+  message: local test
