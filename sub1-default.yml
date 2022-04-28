@@ -1,6 +1,6 @@
 config:
-  profile: local
-  message: local test
+  profile: default
+  message: default test
   
 spring:
   datasource:
@@ -8,5 +8,5 @@ spring:
       maximum-pool-size: 2
     driverClassName: "net.sf.log4jdbc.sql.jdbcapi.DriverSpy"
     url: "jdbc:log4jdbc:mariadb://172.0.0.1:3306/TESTDB"
-    username: "local_4"
+    username: "sub_default_1"
     password: "1234"
