@@ -8,5 +8,5 @@ spring:
       maximum-pool-size: 2
     driverClassName: "net.sf.log4jdbc.sql.jdbcapi.DriverSpy"
     url: "jdbc:log4jdbc:mariadb://172.0.0.1:3306/TESTDB"
-    username: "local_2"
+    username: "local_3"
     password: "1234"  
